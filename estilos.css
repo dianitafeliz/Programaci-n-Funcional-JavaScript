@@ -1,0 +1,50 @@
+header{
+    color: rgb(248, 247, 247);
+    font-size: 33px;
+    background-color: rgb(18, 18, 113);
+    height: 100px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+.table{
+    width: fit-content;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.table1{
+    width: 15%;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.table td{
+     padding: 0.3rem;
+     
+     }
+footer{
+    height: 80px;
+    margin-bottom: 0;
+    background-color: rgb(209, 234, 251);
+    text-align: center;
+}
+#nombre{
+    color: red
+}
+
+.nombre{
+     background-color: #ffeb3bd2;
+     font-weight: bold; 
+     text-align: left;
+}
+
+img{
+    height: 80px;
+}
